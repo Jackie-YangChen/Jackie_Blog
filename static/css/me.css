@@ -4,3 +4,22 @@
     padding-bottom: 0.2em !important;
 
 }
+.m-padded-tb-massive{
+    padding-top: 3em !important;
+    padding-bottom: 3em !important;
+}
+
+/* text */
+.m-text-thin{
+    font-weight: 300 !important;
+}
+.m-text-spaced{
+    letter-spacing: 1px !important;
+}
+.m-text-lined{
+    line-height: 1.8;
+}
+
+.m-opacity-mini{
+    opacity: 0.8 !important;
+}
